@@ -1,1 +1,32 @@
+//Admob
+
+{
+ "AppID"           :  "ca-app-pub-3940256099942544~3347511713" ,
+ "BannerID"        :  "ca-app-pub-3940256099942544/6300978111" ,
+ "InterstitialID"  :  "ca-app-pub-3940256099942544/8691691433" ,
+ "RewardID"        :  "ca-app-pub-3940256099942544/5224354917"
+}
+
+//Fan
+
+{
+ "FanBannerID"        :  "IMG_16_9_APP_INSTALL#676440183615648_676478356945164" ,
+ "FanInterstitialID"  :  "VID_HD_9_16_39S_APP_INSTALL#676440183615648_676478483611818" ,
+ "FanRewardID"        :  "PLAYABLE#676440183615648_676478670278466"
+}
+
+
+//Unity
+
+{
+ "GameIDAndroid"           :  "4957423" ,
+ "GameIDIos"               :  "4957422" ,
+ "UnityBannerAndroidID"    :  "Banner_Android" ,
+ "UnityBannerIOSID"        :  "Banner_iOS" ,
+ "UnityInterstitialID"     :  "Interstitial_Android" ,
+ "UnityIOSInterstitialID"  :  "Interstitial_iOS" ,
+ "UnityRewardID"           :  "Rewarded_Android" ,
+ "UnityIOSRewardID"        :  "Rewarded_iOS" 
+}
+
 
